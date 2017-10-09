@@ -1,0 +1,7 @@
+C:\Users\Elijah\Documents\Visual Studio 2017\Projects\Bonus17\Bonus17\bin\Debug\Bonus17.exe.config
+C:\Users\Elijah\Documents\Visual Studio 2017\Projects\Bonus17\Bonus17\bin\Debug\Bonus17.exe
+C:\Users\Elijah\Documents\Visual Studio 2017\Projects\Bonus17\Bonus17\bin\Debug\Bonus17.pdb
+C:\Users\Elijah\Documents\Visual Studio 2017\Projects\Bonus17\Bonus17\obj\Debug\Bonus17.csprojResolveAssemblyReference.cache
+C:\Users\Elijah\Documents\Visual Studio 2017\Projects\Bonus17\Bonus17\obj\Debug\Bonus17.csproj.CoreCompileInputs.cache
+C:\Users\Elijah\Documents\Visual Studio 2017\Projects\Bonus17\Bonus17\obj\Debug\Bonus17.exe
+C:\Users\Elijah\Documents\Visual Studio 2017\Projects\Bonus17\Bonus17\obj\Debug\Bonus17.pdb
